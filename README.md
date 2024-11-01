@@ -9,8 +9,6 @@ basic arithmetic operations. The distinction is that when multiple equal signs a
 the final operator and operand to be applied once more. Additionally, the equation may contain more than one 
 operation, and the addition operation may be entered first.
 
-## Installation Instructions
-Clear instructions for installing the project, including any prerequisites.
 
 ## Prerequisites
 - Recommended to open through Visual Studio Code or Intellji.
