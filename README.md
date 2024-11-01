@@ -1,4 +1,4 @@
-# Project Title: SmartCalculator
+# Project Title: Calculator
 
 ## Project Description
 A Calculator is designed to perform basic arithmetic operations, allowing users to input mathematical 
